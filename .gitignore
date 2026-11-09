@@ -1,0 +1,7 @@
+data/raw/*.csv
+models/*.joblib
+reports/metrics.csv
+reports/model_summary.json
+scored.csv
+__pycache__/
+.pytest_cache/
